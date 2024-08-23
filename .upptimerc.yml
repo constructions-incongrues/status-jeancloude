@@ -16,6 +16,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
   navbar:
+    - title: Constructions
+      href: https://status.constructions-incongrues.net
     - title: Interzone
       href: https://status.interzone.network
     - title: Pantagruweb
